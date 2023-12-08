@@ -1,2 +1,2 @@
 # IPC
-Implementation of IPC in Linux
+Implementation of IPC in C
